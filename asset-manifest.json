@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/app-prueba/static/css/main.2416da8f.chunk.css",
+    "main.js": "/app-prueba/static/js/main.2f6f9ceb.chunk.js",
+    "main.js.map": "/app-prueba/static/js/main.2f6f9ceb.chunk.js.map",
+    "runtime-main.js": "/app-prueba/static/js/runtime-main.3c850f72.js",
+    "runtime-main.js.map": "/app-prueba/static/js/runtime-main.3c850f72.js.map",
+    "static/js/2.7b5e0213.chunk.js": "/app-prueba/static/js/2.7b5e0213.chunk.js",
+    "static/js/2.7b5e0213.chunk.js.map": "/app-prueba/static/js/2.7b5e0213.chunk.js.map",
+    "static/js/3.9d679706.chunk.js": "/app-prueba/static/js/3.9d679706.chunk.js",
+    "static/js/3.9d679706.chunk.js.map": "/app-prueba/static/js/3.9d679706.chunk.js.map",
+    "index.html": "/app-prueba/index.html",
+    "static/css/main.2416da8f.chunk.css.map": "/app-prueba/static/css/main.2416da8f.chunk.css.map",
+    "static/js/2.7b5e0213.chunk.js.LICENSE.txt": "/app-prueba/static/js/2.7b5e0213.chunk.js.LICENSE.txt",
+    "static/media/chihiro.e7344104.jpg": "/app-prueba/static/media/chihiro.e7344104.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c850f72.js",
+    "static/js/2.7b5e0213.chunk.js",
+    "static/css/main.2416da8f.chunk.css",
+    "static/js/main.2f6f9ceb.chunk.js"
+  ]
+}
